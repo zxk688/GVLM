@@ -9,5 +9,5 @@ It includes 17 bitemporal very-high-resolution imagery pairs with a spatial reso
 ![Locations](https://github.com/ZXK-RS/GVLM/blob/main/loc.png)
 
 # Download
-It is avaiable at  [Baidu Drive](https://pan.baidu.com/s/1obnekFDbRbW0vFPXIXzOuA)(extraction code:35wc), or [Google Drive](https://drive.google.com/file/d/1Plebf2UkMMn7SwguWgZQLvdcnxQTCyV_/view?usp=sharing).
+The dataset will be released soon. 
 
