@@ -6,7 +6,7 @@ It has been instrumental in advancing remote sensing and deep learning research.
 
 # Description
 It includes 17 bitemporal very-high-resolution imagery pairs with a spatial resolution of 0.59 m acquired via Google Earth service. Each sub-dataset contains a pair of bitemporal images and the corresponding ground-truth map. 
-![Locations](https://github.com/ZXK-RS/GVLM/blob/main/loc.png)
+![Locations](https://github.com/ZXK-RS/GVLM/blob/main/locnew.png)
 
 # Download
 The dataset will be released soon. 
