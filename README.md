@@ -1,5 +1,5 @@
 
-## GVLM Dataset
+# GVLM Dataset
 
 The Global Very-High-Resolution Landslde Mapping (GVLM) dataset is the first large-scale and open-source VHR landslide mapping dataset. It is available for free to researchers for **only non-commercial use**. 
 
@@ -24,7 +24,7 @@ author = {Xiaokang Zhang and Weikang Yu and Man-On Pun and Wenzhong Shi},
 The dataset will be released soon. 
 
 # Demo
-We also provide a simple demo for image clipping, model training and testing.
+We also provide a simple demo for image clipping, model training and testing. Please refer to [LandslideMappingDemo](https://github.com/zxk688/GVLM/LandslideMappingDemo).
 
 # Contact
 Xiaokang Zhang (natezhangxk@gmail.com)
