@@ -24,5 +24,7 @@ author = {Xiaokang Zhang and Weikang Yu and Man-On Pun and Wenzhong Shi},
 The dataset will be released soon. 
 
 # Demo
-Here are some source codes
+We also provide a simple demo for image clipping, model training and testing.
 
+# Contact
+Xiaokang Zhang (natezhangxk@gmail.com)
