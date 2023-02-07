@@ -27,4 +27,4 @@ The dataset will be released soon.
 We also provide a simple demo for image clipping, model training and testing. Please refer to *LandslideMappingDemo*.
 
 # Contact
-Xiaokang Zhang (natezhangxk@gmail.com)
+Dr. Xiaokang Zhang (natezhangxk@gmail.com)
