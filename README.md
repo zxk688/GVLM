@@ -21,7 +21,7 @@ author = {Xiaokang Zhang and Weikang Yu and Man-On Pun and Wenzhong Shi},
 }
 ```
 # Download
-The dataset will be released soon. 
+The dataset will be released soon. In the future, we will continue promoting the establishment of a worldwide landslide mapping system by acquiring more remote sensing image data in landslide-prone areas. Hope you can join us!
 
 # Demo
 We also provide a simple demo for image clipping, model training and testing. Please refer to *LandslideMappingDemo*.
