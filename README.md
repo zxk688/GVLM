@@ -29,3 +29,6 @@ Users can split images into desired-size patches and generate their own train, v
 
 # Contact
 Dr. Xiaokang Zhang (natezhangxk@gmail.com)
+
+# Acknowledgement
+We would like to thank [Google Earth platform](https://earth.google.com/) for providing the remote sensing images.
