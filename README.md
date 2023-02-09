@@ -21,7 +21,8 @@ author = {Xiaokang Zhang and Weikang Yu and Man-On Pun and Wenzhong Shi},
 }
 ```
 # Download
-The dataset will be released soon. In the future, we will continue promoting the establishment of a worldwide landslide mapping system by acquiring more remote sensing image data in landslide-prone areas. Hope you can join us!
+It is avaiable at  [Baidu Drive](https://pan.baidu.com/s/1OiP_LdpfPa4BBZqHAVeLXw)(extraction code:rkrg), or [Google Drive](https://drive.google.com/file/d/1RW8looAdRrZ6hanUWHaGCnmaHCkQZevP/view?usp=share_link).
+In the future, we will continue promoting the establishment of a worldwide landslide mapping system by acquiring more remote sensing image data in landslide-prone areas. Hope you can join us!
 
 # Demo
 We also provide a simple demo for image clipping, model training and testing. Please refer to *LandslideMappingDemo*.
