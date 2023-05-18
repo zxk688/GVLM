@@ -21,7 +21,7 @@ author = {Xiaokang Zhang and Weikang Yu and Man-On Pun and Wenzhong Shi},
 }
 ```
 # Download
-It is avaiable at  [Baidu Drive](https://pan.baidu.com/s/1OiP_LdpfPa4BBZqHAVeLXw)(extraction code:rkrg), or [Google Drive](https://drive.google.com/file/d/1R6U5GmBHVDi9g3XM09jYCnaqWSwEpBj-/view?usp=sharing). 
+It is avaiable at  [Baidu Drive](https://pan.baidu.com/s/1GYlY16k1zIEf07puGl8l_w?pwd=wsss), or [Google Drive](https://drive.google.com/file/d/1R6U5GmBHVDi9g3XM09jYCnaqWSwEpBj-/view?usp=sharing). 
 In the future, we will continue promoting the establishment of a worldwide landslide mapping system by acquiring more remote sensing image data in landslide-prone areas. Hope you can join us!
 
 # Demo
