@@ -21,6 +21,24 @@ doi = {https://doi.org/10.1016/j.isprsjprs.2023.01.018},
 url = {https://www.sciencedirect.com/science/article/pii/S0924271623000242},
 author = {Xiaokang Zhang and Weikang Yu and Man-On Pun and Wenzhong Shi},
 }
+@article{zhang2022multilevel,
+  title={Multilevel deformable attention-aggregated networks for change detection in bitemporal remote sensing imagery},
+  author={Zhang, Xiaokang and Yu, Weikang and Pun, Man-On},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--18},
+  year={2022},
+  publisher={IEEE}
+}
+@ARTICLE{10126088,
+  author={Zhang, Xiaokang and Yu, Weikang and Ma, Xianping and Kang, Xudong},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={Weakly Supervised Local–Global Anchor Guidance Network for Landslide Extraction With Image-Level Annotations}, 
+  year={2023},
+  volume={20},
+  number={},
+  pages={1-5},
+  doi={10.1109/LGRS.2023.3276768}}
 ```
 # Download
 It is available at  [Baidu Drive](https://pan.baidu.com/s/1GYlY16k1zIEf07puGl8l_w?pwd=wsss), or [Google Drive](https://drive.google.com/file/d/1R6U5GmBHVDi9g3XM09jYCnaqWSwEpBj-/view?usp=sharing). 
