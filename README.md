@@ -49,7 +49,7 @@ We also provide a simple demo for image clipping, model training and testing. Pl
 Users can split images into desired-size patches and generate their own train, validation, and test sets.
 
 # Contact
-Dr. Xiaokang Zhang (natezhangxk@gmail.com)
+Dr. Xiaokang Zhang (https://xkzhang.info/)
 
 # Acknowledgement
 We would like to thank [Google Earth platform](https://earth.google.com/) for providing the remote sensing images.
