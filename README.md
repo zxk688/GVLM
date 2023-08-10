@@ -1,7 +1,7 @@
 
 # GVLM Dataset Version 1.0
 
-**A New Large-Scale Benchmark for Change Detection and Landslide Mapping!**. The Global Very-High-Resolution Landslide Mapping (GVLM) dataset is the first large-scale and open-source VHR landslide mapping dataset. It is available for free to researchers for **only non-commercial use**. 
+**A New Large-Scale Benchmark for Change Detection and Landslide Mapping!** The Global Very-High-Resolution Landslide Mapping (GVLM) dataset is the first large-scale and open-source VHR landslide mapping dataset. It is available for free to researchers for **only non-commercial use**. 
 
 # Description
 It includes $17$ bitemporal very-high-resolution imagery pairs with a spatial resolution of $0.59$ m acquired via Google Earth service. Each sub-dataset contains a pair of bitemporal images and the corresponding ground-truth map. The total coverage of the dataset is $163.77 km2$. The landslide sites in different geographical locations have various sizes, shapes, occurrence times, spatial distributions, phenology states, and land cover types, resulting in considerable spectral heterogeneity and intensity variations in the remote sensing imagery. The GVLM dataset can be used to develop and evaluate machine/deep learning models for change detection, semantic segmentation and landslide extraction. For more details, please refer to [Cross-domain landslide mapping from large-scale remote sensing images using prototype-guided domain-aware progressive representation learning](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000242?dgcid=author).
