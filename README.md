@@ -36,5 +36,8 @@ Dr. Xiaokang Zhang (https://xkzhang.info/)
 # Acknowledgement
 We would like to thank [Google Earth platform](https://earth.google.com/) for providing the remote sensing images.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=openai/gpt-5&type=Date)](https://star-history.com/#openai/gpt-5&Date)
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zxk688/GVLM&type=Date)](https://star-history.com/#zxk688/GVLM&Date)
+
 
