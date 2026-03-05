@@ -5,7 +5,7 @@
 
 # 🚨 New Version Released
 
-**GVLM Dataset v2 is now available.**
+**GVLM Dataset v1.1 is now available.**
 
 👉 Please visit [here](https://github.com/zxk688/GVLM/blob/main/README_v2.md).  
 
