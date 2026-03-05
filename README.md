@@ -7,8 +7,8 @@
 
 **GVLM Dataset v2 is now available.**
 
-👉 Please visit the new documentation:  
-### https://github.com/zxk688/GVLM/blob/main/README_v2.md
+👉 Please visit [here]{https://github.com/zxk688/GVLM/blob/main/README_v2.md}.  
+
 
 
 
