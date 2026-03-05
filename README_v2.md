@@ -58,12 +58,11 @@ GVLM_1.1_8bit.zip from Baidu Netdisk or Google Drive:
 * **Baidu Netdisk**: [Access Link](https://pan.baidu.com/s/1uLgchmxkToGSAJ3iAOQsdw?pwd=psnv) (PWD: `psnv`)
 * **Google Drive**: [Access Link](https://drive.google.com/file/d/1DzeMZQuTVC5xJF00B0i1Jv8xXYXwIX7P/view?usp=sharing)
 
-```
-
 
 # 6. Acknowledgement
 
 We would like to thank the [Google Earth platform](https://earth.google.com/) and [ESA Sentinel missions](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/The_Sentinel_missions)  for providing the remote sensing images.
+
 
 
 
