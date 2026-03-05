@@ -1,6 +1,13 @@
 
 # GVLM Dataset Version 1.0
 
+⚠️ **New Version Released**
+
+We have released an updated version of this dataset with improved annotations and additional samples.
+
+👉 Please see the **new documentation** here:  
+https://github.com/zxk688/GVLM/blob/main/README_v2.md
+
 **A New Large-Scale Benchmark for Change Detection and Landslide Mapping!** The Global Very-High-Resolution Landslide Mapping (GVLM) dataset is the first large-scale and open-source VHR landslide mapping dataset. It is available for free to researchers for **only non-commercial use**. 
 
 # Description
