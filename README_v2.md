@@ -60,35 +60,6 @@ GVLM_1.1_8bit.zip from Baidu Netdisk or Google Drive:
 
 ```
 
-# 5. Data Preprocessing
-
-We provide a `crop_hr.py` script to tile the data into patches for moedl training.
-
-### Script Description
-
-The script synchronizes the cropping of **Pre-event HR**, **Post-event HR**, and **Labels**, automatically generating `pre/`, `post/`, and `label/` subdirectories.
-
-### Requirements
-
-```bash
-pip install tifffile numpy tqdm
-
-```
-
-
-### Usage Examples
-
-1. **Default Crop** (512x512, no overlap):
-```bash
-python crop_hr.py --input_dir ./GVLM_1.1_8bit --output_dir ./GVLM_Cropped
-
-```
-
-2. **Custom Size & Overlap** (256x256 size, 128-pixel stride):
-```bash
-python crop_hr.py --size 256 --stride 128
-
-```
 
 
 <!-- # 6. Notes
@@ -100,7 +71,8 @@ python crop_hr.py --size 256 --stride 128
 
 Dr. Xiaokang Zhang (zhangxiaokang@whu.edu.cn) -->
 
-# 8. Acknowledgement
+# 6. Acknowledgement
 
 We would like to thank the [Google Earth platform](https://earth.google.com/) and [ESA Sentinel missions](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/The_Sentinel_missions)  for providing the remote sensing images.
+
 
