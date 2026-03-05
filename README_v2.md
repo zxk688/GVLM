@@ -61,18 +61,9 @@ GVLM_1.1_8bit.zip from Baidu Netdisk or Google Drive:
 ```
 
 
-
-<!-- # 6. Notes
-
-1. **Data Format**: SAR data is stored as `int8`, while HR/MS are stored as `uint8`.
-2. **Alignment**: The `crop_hr.py` script is exclusively designed for High-Resolution imagery and corresponding labels. -->
-
-<!-- # 7. Contact
-
-Dr. Xiaokang Zhang (zhangxiaokang@whu.edu.cn) -->
-
 # 6. Acknowledgement
 
 We would like to thank the [Google Earth platform](https://earth.google.com/) and [ESA Sentinel missions](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/The_Sentinel_missions)  for providing the remote sensing images.
+
 
 
