@@ -11,7 +11,7 @@ This dataset covers 7 typical landslide events in recent years. Site are standar
 | ID | Site (City/Region, Country) | Image Size (Pixels) | Trigger | Event Date |
 | --- | --- | --- | --- | --- | 
 | **1** | Mtauchira, Malawi | 10496 x 12288 | Cyclone | 2023-03 |
-| **2** | wuxie, China | 20480 x 17920 | Rainstorm | 2021-06-10 | 
+| **2** | Wuxie, China | 20480 x 17920 | Rainstorm | 2021-06-10 | 
 | **3** | Longchuan, China | 18176 x 15360 | Rainstorm | 2019-06-13 |
 | **4** | Te Haroto, New Zealand | 20480 x 22528 | Cyclone | 2023-02-21 | 
 | **5** | São Sebastião, Brazil | 20736 x 11520 | Urban Growth | 2023-02 |
@@ -62,6 +62,7 @@ GVLM_1.1_8bit.zip from Baidu Netdisk or Google Drive:
 # 6. Acknowledgement
 
 We would like to thank the [Google Earth platform](https://earth.google.com/) and [ESA Sentinel missions](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/The_Sentinel_missions)  for providing the remote sensing images.
+
 
 
 
