@@ -9,7 +9,7 @@
 
 👉 Please visit [here](https://github.com/zxk688/GVLM/blob/main/README_v2.md).  
 
-
+![Framework](GVLM1_1.png)
 
 
 # Description
