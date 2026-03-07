@@ -2,7 +2,7 @@
 
 # 1. Introduction
 
-**GVLM (Global Visual Landslide Monitoring) v1.1** is a multi-modal version of GVLM. It contains geo-referenced remote sensing images with high-quality labels.
+**GVLM v1.1** is a multi-modal version of GVLM. It contains geo-referenced remote sensing images with high-quality labels.
 
 # 2. Event Details
 This dataset covers 7 typical landslide events in recent years. Site are standardized as "City/Region, Country" with their dates following the YYYY-MM-DD format.
@@ -62,6 +62,7 @@ GVLM_1.1_8bit.zip from Baidu Netdisk or Google Drive:
 # 6. Acknowledgement
 
 We would like to thank the [Google Earth platform](https://earth.google.com/) and [ESA Sentinel missions](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/The_Sentinel_missions)  for providing the remote sensing images.
+
 
 
 
