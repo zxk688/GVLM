@@ -14,7 +14,7 @@
 ## :fire:TODO
 - [x] Release GVLM V1.0 and processing demo
 - [x] Release GVLM V1.1, a multimodal version  
-- [ ] Release [GVLM V2.0](https://github.com/zxk688/GVLM/blob/main/README_v3.md), a multimodal multiview version designed for foundation models
+- [ ] Release GVLM V2.0, a multimodal multiview version designed for foundation models
       
 # Description
 For change detection tasks, current open-source datasets mainly focus on building extraction (e.g., WHU building dataset and LEVIR-CD dataset) (Chen and Shi, 2020; Ji et al., 2018) and urban development monitoring (e.g., SECOND dataset, Google dataset and CDD dataset) (Yang et al., 2022; Peng et al., 2021; Lebedev et al., 2018), whereas datasets for natural disaster monitoring have been seldom investigated. 
