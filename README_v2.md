@@ -10,13 +10,13 @@ This dataset covers 7 typical landslide events in recent years. Sites are standa
 
 | ID | Site (City/Region, Country) | Image Size (Pixels) | Trigger | Event Date |
 | --- | --- | --- | --- | --- | 
-| **1** | Mtauchira, Malawi | 10496 x 12288 | Cyclone | 2023-03 |
-| **2** | Wuxie, China | 20480 x 17920 | Rainstorm | 2021-06-10 | 
-| **3** | Longchuan, China | 18176 x 15360 | Rainstorm | 2019-06-13 |
-| **4** | Te Haroto, New Zealand | 20480 x 22528 | Cyclone | 2023-02-21 | 
-| **5** | São Sebastião, Brazil | 20736 x 11520 | Urban Growth | 2023-02 |
-| **6** | Nippes, Haiti | 21504 x 12288 | Earthquake | 2021-08-14 |
-| **7** | Enshi, China | 13824 x 10496 | Rainfall | 2021-06-21 | 
+| **1** | Mtauchira, Malawi | 5376 x 6144 | Cyclone | 2023-03 |
+| **2** | Wuxie, China | 10496 x 8960| Rainstorm | 2021-06-10 | 
+| **3** | Longchuan, China | 9216 x 7680 | Rainstorm | 2019-06-13 |
+| **4** | Te Haroto, New Zealand | 10496 x 11264 | Cyclone | 2023-02-21 | 
+| **5** | São Sebastião, Brazil | 10496 x 5888 | Urban Growth | 2023-02 |
+| **6** | Nippes, Haiti | 11008 x 6144 | Earthquake | 2021-08-14 |
+| **7** | Enshi, China | 7168 x 5376 | Rainfall | 2021-06-21 | 
 
 
 # 3. Technical Specifications
