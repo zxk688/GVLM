@@ -4,7 +4,7 @@
 **A New Large-Scale Benchmark for Change Detection and Landslide Mapping!** The Global Very-High-Resolution Landslide Mapping (GVLM) dataset is the first large-scale and open-source VHR landslide mapping dataset. It is available for free to researchers for **only non-commercial use**. 
 
 
-![ Award](./award.jpg)
+<img src="./award.jpg" alt="Award" width="300">
 
 # 🚨 New Version Released
 
