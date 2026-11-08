@@ -21,7 +21,7 @@ def main():
     model = ResUnet()
     device = torch.device('cuda:0')
     model.to(device)
-    model.load_state_dict(torch.load("snapshot/2023-02-06_17_39_12_ResUnet_10.pth"))
+    model.load_state_dict(torch.load("snapshot/2023-02-06_17_39_12_ResUnet_10.pth", weights_only=True))
     model.eval()
 
     TP , FN, FP, TN= 0, 0,0,0
